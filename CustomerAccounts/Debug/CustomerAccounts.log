@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\onedrive\education\winter 2017\cs233\groupproject\customeraccounts\customeraccounts\source.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  CustomerAccounts.vcxproj -> E:\OneDrive\Education\Winter 2017\CS233\GroupProject\CustomerAccounts\CustomerAccounts\Debug\CustomerAccounts.exe
+  CustomerAccounts.vcxproj -> E:\OneDrive\Education\Winter 2017\CS233\GroupProject\CustomerAccounts\CustomerAccounts\Debug\CustomerAccounts.pdb (Full PDB)
